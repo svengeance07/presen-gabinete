@@ -1,0 +1,25 @@
+﻿  ArrayHandler.cpp
+  AIConsoleControl.cpp
+C:\Users\Si\Downloads\ProjectOvertone v250126\include\utils\ArrayHandler.h(2,10): error C1083: No se puede abrir el archivo incluir: 'Config.h': No such file or directory
+  (compilando archivo de origen "include/utils/ArrayHandler.cpp")
+  
+C:\Users\Si\Downloads\ProjectOvertone v250126\src\AIConsoleControl.cpp(2,10): error C1083: No se puede abrir el archivo incluir: 'Config.h': No such file or directory
+  KeyCheck.cpp
+C:\Users\Si\Downloads\ProjectOvertone v250126\src\KeyCheck.cpp(5,10): error C1083: No se puede abrir el archivo incluir: 'KeyCheck.h': No such file or directory
+  EntityHandler.cpp
+C:\Users\Si\Downloads\ProjectOvertone v250126\src\EntityHandler.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'classes/Entities.h': No such file or directory
+  EventHandler.cpp
+C:\Users\Si\Downloads\ProjectOvertone v250126\src\EventHandler.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'EventHandler.h': No such file or directory
+  MapHandler.cpp
+C:\Users\Si\Downloads\ProjectOvertone v250126\src\MapHandler.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'utils/ArrayHandler.h': No such file or directory
+  MenuBuilder.cpp
+C:\Users\Si\Downloads\ProjectOvertone v250126\src\MenuBuilder.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'Config.h': No such file or directory
+  Overtone-Game.cpp
+C:\Users\Si\Downloads\ProjectOvertone v250126\src\Overtone-Game.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'Config.h': No such file or directory
+  Player.cpp
+C:\Users\Si\Downloads\ProjectOvertone v250126\src\Player.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'Config.h': No such file or directory
+  Renderer.cpp
+C:\Users\Si\Downloads\ProjectOvertone v250126\src\Renderer.cpp(2,10): error C1083: No se puede abrir el archivo incluir: 'ScreenBuilder.h': No such file or directory
+  ScreenBuilder.cpp
+C:\Users\Si\Downloads\ProjectOvertone v250126\src\ScreenBuilder.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'Config.h': No such file or directory
+  Generando código...
